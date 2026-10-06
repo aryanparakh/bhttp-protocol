@@ -1,0 +1,3 @@
+Hello, BHTTP!
+This is a plain text file served over the custom binary application-layer protocol.
+It verifies reliable transport, content-length calculation, and stream delivery.

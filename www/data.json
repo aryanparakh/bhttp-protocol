@@ -1,0 +1,11 @@
+{
+  "protocol": "BHTTP",
+  "version": 1,
+  "status": "active",
+  "features": [
+    "binary framing",
+    "12-byte header",
+    "indexed headers",
+    "persistent connections"
+  ]
+}
